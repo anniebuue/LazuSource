@@ -144,7 +144,7 @@ class CreditsState extends MusicBeatState
 
 				var icon:AttachedSprite = new AttachedSprite('credits/' + creditsStuff[i][1]);
 				
-				if (icon.width > 150)
+				if (icon.width > 225)
 				{
 					icon.setGraphicSize(Std.int(icon.width / 12));
 					icon.updateHitbox();

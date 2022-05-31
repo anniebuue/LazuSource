@@ -571,7 +571,8 @@ class TitleState extends MusicBeatState
 		}
 
 		if(!closedState) {
-			sickBeats++;
+			//sickBeats++; graaah fuck you
+			sickBeats = curBeat;
 			switch (sickBeats)
 			{
 				case 1:

@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="PomuDialogue.png">
-	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="PomuExcited0000" x="0" y="0" width="2701" height="2869" pivotX="764.05" pivotY="1917"/>
-	<SubTexture name="PomuHuh0000" x="2701" y="0" width="2701" height="2869" pivotX="765.05" pivotY="1916"/>
-	<SubTexture name="PomuMwuehehe0000" x="5402" y="0" width="2701" height="2869" pivotX="765.05" pivotY="1916"/>
-	<SubTexture name="PomuNeutral0000" x="0" y="2869" width="2701" height="2869" pivotX="767.05" pivotY="1919"/>
-	<SubTexture name="PomuWhew0000" x="2701" y="2869" width="2701" height="2869" pivotX="765.05" pivotY="1919"/>
-	<SubTexture name="PomuWoag0000" x="5402" y="2869" width="2701" height="2869" pivotX="765.05" pivotY="1916"/>
+	<SubTexture name="PomuExcited0000" x="1" y="1" width="2701" height="2869"/>
+	<SubTexture name="PomuHuh0000" x="1" y="2871" width="2701" height="2869"/>
+	<SubTexture name="PomuMwuehehe0000" x="2703" y="1" width="2701" height="2869"/>
+	<SubTexture name="PomuNeutral0000" x="5405" y="1" width="2701" height="2869"/>
+	<SubTexture name="PomuWhew0000" x="2703" y="2871" width="2701" height="2869"/>
+	<SubTexture name="PomuWoag0000" x="5405" y="2871" width="2701" height="2869"/>
 </TextureAtlas>
