@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-510,
+		-560
+	],
+	"scale": 0.549999999999999,
+	"animations": [
+		{
+			"loop_name": "FinanaNeutral",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FinanaNeutral",
+			"anim": "Netural",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "FinanaUhhh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FinanaUhhh",
+			"anim": "Concerned",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "FinanaWOWIEE",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FinanaWOWIEE",
+			"anim": "Excited",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "FinanaPhew",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FinanaPhew",
+			"anim": "Relief",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "FinanaAAA",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FinanaAAA",
+			"anim": "Shocked",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Finana"
+}

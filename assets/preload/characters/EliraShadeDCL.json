@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-130,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "EwiwaUp"
+		},
+		{
+			"offsets": [
+				-145,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "EwiwaIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-152,
+				34
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "EwiwaDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				38
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "EwiwaRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-152,
+				62
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "EwiwaLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-130,
+				38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Sheesh",
+			"loop": false,
+			"name": "EwiwaSHEESH"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EliraShadeDCL",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "elira",
+	"flip_x": false,
+	"healthbar_colors": [
+		141,
+		215,
+		255
+	],
+	"camera_position": [
+		-40,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

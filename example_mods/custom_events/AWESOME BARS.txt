@@ -1,0 +1,3 @@
+add very dramatic bars to your game wow
+
+value 2: duration of the bars (seconds)

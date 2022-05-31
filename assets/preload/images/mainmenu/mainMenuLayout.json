@@ -1,0 +1,18 @@
+{
+    "storymodeP": [ 840, 0 ],
+    "freeplayP": [ 840, 140 ],
+    "modsP": [ 840, 280 ],
+    "awardsP": [ 840, 420 ],
+    "creditsP": [ 840, 420 ],
+    "donateP": [ 840, 420 ],
+    "optionsP": [ 840, 420 ],
+    "storymodeS": [ 0.7, 0.7 ],
+    "freeplayS": [ 0.7, 0.7 ],
+    "modsS": [ 0.7, 0.7 ],
+    "awardsS": [ 0.7, 0.7 ],
+    "creditsS": [ 0.7, 0.7 ],
+    "donateS": [ 0.7, 0.7 ],
+    "optionsS": [ 0.7, 0.7 ],
+    "centerX": false
+
+}

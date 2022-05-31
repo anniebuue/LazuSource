@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PomuDialogueBox.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="OpenBox0000" x="0" y="0" width="203" height="8" frameX="-473" frameY="-143" frameWidth="1149" frameHeight="295"/>
+	<SubTexture name="OpenBox0001" x="203" y="0" width="637" height="139" frameX="-256" frameY="-78" frameWidth="1149" frameHeight="295"/>
+	<SubTexture name="OpenBox0002" x="840" y="0" width="797" height="189" frameX="-176" frameY="-53" frameWidth="1149" frameHeight="295"/>
+	<SubTexture name="OpenBox0003" x="0" y="189" width="908" height="222" frameX="-120" frameY="-36" frameWidth="1149" frameHeight="295"/>
+	<SubTexture name="OpenBox0004" x="908" y="189" width="989" height="247" frameX="-80" frameY="-24" frameWidth="1149" frameHeight="295"/>
+	<SubTexture name="OpenBox0005" x="0" y="436" width="1051" height="265" frameX="-49" frameY="-15" frameWidth="1149" frameHeight="295"/>
+	<SubTexture name="OpenBox0006" x="0" y="701" width="1095" height="279" frameX="-27" frameY="-8" frameWidth="1149" frameHeight="295"/>
+	<SubTexture name="OpenBox0007" x="0" y="980" width="1125" height="288" frameX="-12" frameY="-3" frameWidth="1149" frameHeight="295"/>
+	<SubTexture name="OpenBox0008" x="0" y="1268" width="1143" height="293" frameX="-3" frameY="-1" frameWidth="1149" frameHeight="295"/>
+	<SubTexture name="OpenBox0009" x="0" y="1561" width="1149" height="295"/>
+	<SubTexture name="OpenBox0010" x="0" y="1561" width="1149" height="295"/>
+	<SubTexture name="OpenBox0011" x="0" y="1561" width="1149" height="295"/>
+	<SubTexture name="OpenBox0012" x="0" y="1561" width="1149" height="295"/>
+	<SubTexture name="OpenBox0013" x="0" y="1561" width="1149" height="295"/>
+	<SubTexture name="OpenBox0014" x="0" y="1561" width="1149" height="295"/>
+	<SubTexture name="OpenBox0015" x="0" y="1561" width="1149" height="295"/>
+	<SubTexture name="OpenBox0016" x="0" y="1561" width="1149" height="295"/>
+	<SubTexture name="OpenBox0017" x="0" y="1561" width="1149" height="295"/>
+	<SubTexture name="OpenBox0018" x="0" y="1561" width="1149" height="295"/>
+	<SubTexture name="OpenBox0019" x="0" y="1561" width="1149" height="295"/>
+	<SubTexture name="PomuBox0000" x="0" y="1561" width="1149" height="295"/>
+</TextureAtlas>

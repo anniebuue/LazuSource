@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				80
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Smallbrain Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				20
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Smallbrain Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				150
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Smallbrain Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				110
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Smallbrain Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-13,
+				64
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "Pomu scared",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				122
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Pomu small brain",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				31
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Pomu small brain loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Pomu small brain confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-45,
+				78
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "PomuIdle"
+		},
+		{
+			"offsets": [
+				-45,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "PomuDown"
+		},
+		{
+			"offsets": [
+				7,
+				73
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "PomuLeft"
+		},
+		{
+			"offsets": [
+				-80,
+				125
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "PomuUp"
+		},
+		{
+			"offsets": [
+				-100,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "PomuRight"
+		},
+		{
+			"offsets": [
+				-23,
+				205
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "PomuHey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pomu3.0",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pomu-remastered",
+	"flip_x": true,
+	"healthbar_colors": [
+		242,
+		175,
+		51
+	],
+	"camera_position": [
+		-20,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

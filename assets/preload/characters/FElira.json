@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-146,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FEliraUp"
+		},
+		{
+			"offsets": [
+				-145,
+				54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FEliraLeft"
+		},
+		{
+			"offsets": [
+				-145,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FEliraDown"
+		},
+		{
+			"offsets": [
+				-145,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FewiwaIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-145,
+				37
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FEliraRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FElira",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "fewiwa",
+	"flip_x": false,
+	"healthbar_colors": [
+		127,
+		230,
+		241
+	],
+	"camera_position": [
+		20,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

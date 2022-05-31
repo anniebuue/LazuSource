@@ -1,0 +1,50 @@
+{
+	"storyName": "LazuLight",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "dcl",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"tsunami",
+			"Finana",
+			[
+				180,
+				243,
+				219
+			]
+		],
+		[
+			"sheesh",
+			"Elira",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"diamond city lights",
+			"pomu-remastered",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "dclweek",
+	"hiddenUntilUnlocked": false
+}
