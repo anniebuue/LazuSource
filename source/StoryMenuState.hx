@@ -322,7 +322,8 @@ class StoryMenuState extends MusicBeatState
 	var tweenDifficulty:FlxTween;
 	function changeDifficulty(change:Int = 0):Void
 	{
-		curDifficulty += change;
+		//curDifficulty += change;
+		curDifficulty = 2; //only hard lol!
 
 		if (curDifficulty < 0)
 			curDifficulty = CoolUtil.difficulties.length-1;
