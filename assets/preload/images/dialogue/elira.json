@@ -1,76 +1,76 @@
 {
-	"dialogue_pos": "left",
 	"position": [
 		-550,
-		-660
+		-1010
 	],
-	"scale": 0.549999999999999,
+	"dialogue_pos": "left",
+	"scale": 0.349999999999999,
+	"image": "Elira",
 	"animations": [
 		{
-			"loop_name": "EliraNetural",
-			"idle_offsets": [
+			"loop_offsets": [
 				0,
 				0
 			],
-			"idle_name": "EliraNetural",
 			"anim": "Netural",
-			"loop_offsets": [
-				0,
-				0
-			]
-		},
-		{
-			"loop_name": "EliraConcerned",
 			"idle_offsets": [
 				0,
 				0
 			],
-			"idle_name": "EliraConcerned",
+			"loop_name": "EliraNeutral",
+			"idle_name": "EliraNeutral"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
 			"anim": "Concerned",
-			"loop_offsets": [
-				0,
-				0
-			]
-		},
-		{
-			"loop_name": "EliraExcited",
 			"idle_offsets": [
 				0,
 				0
 			],
-			"idle_name": "EliraExcited",
+			"loop_name": "EliraConcern",
+			"idle_name": "EliraConcern"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
 			"anim": "Excited",
-			"loop_offsets": [
-				0,
-				0
-			]
-		},
-		{
-			"loop_name": "EliraRelief",
 			"idle_offsets": [
 				0,
 				0
 			],
-			"idle_name": "EliraRelief",
+			"loop_name": "EliraGlee",
+			"idle_name": "EliraGlee"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
 			"anim": "Relief",
-			"loop_offsets": [
-				0,
-				0
-			]
-		},
-		{
-			"loop_name": "EliraShocked",
 			"idle_offsets": [
 				0,
 				0
 			],
-			"idle_name": "EliraShocked",
-			"anim": "Shocked",
+			"loop_name": "EliraRelief",
+			"idle_name": "EliraRelief"
+		},
+		{
 			"loop_offsets": [
 				0,
 				0
-			]
+			],
+			"anim": "Shocked",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "EliraWowie",
+			"idle_name": "EliraWowie"
 		}
-	],
-	"image": "Elira"
+	]
 }
