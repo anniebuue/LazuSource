@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"expression": "Excited",
+			"text": "I'’ve actually been working on a tune recently, so this is perfect.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "elira"
+		},
+		{
+			"expression": "excited",
+			"text": "No wonder you’'ve been so busy, I'm excited to see what you’ve got!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pomudialogue"
+		},
+		{
+			"expression": "Excited",
+			"text": "Try to keep up, Pomu~",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "elira"
+		}
+	]
+}

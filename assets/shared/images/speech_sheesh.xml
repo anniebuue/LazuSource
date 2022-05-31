@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speech_sheesh.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dialogue_default0000" x="1" y="1" width="1920" height="1080"/>
+	<SubTexture name="dialogue_elira0000" x="1" y="2163" width="1920" height="1080"/>
+	<SubTexture name="dialogue_pomu0000" x="1" y="1082" width="1920" height="1080"/>
+</TextureAtlas>

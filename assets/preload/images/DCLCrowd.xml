@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DCLCrowd.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CrowdBop0000" x="0" y="0" width="2887" height="1021" pivotX="1507.45" pivotY="-231.15" frameX="-26" frameY="-26" frameWidth="2913" frameHeight="1048"/>
+	<SubTexture name="CrowdBop0001" x="2887" y="0" width="2887" height="1022" frameX="-26" frameY="-25" frameWidth="2913" frameHeight="1048"/>
+	<SubTexture name="CrowdBop0002" x="0" y="1022" width="2888" height="1024" frameX="-24" frameY="-23" frameWidth="2913" frameHeight="1048"/>
+	<SubTexture name="CrowdBop0003" x="2888" y="1022" width="2890" height="1029" frameX="-21" frameY="-18" frameWidth="2913" frameHeight="1048"/>
+	<SubTexture name="CrowdBop0004" x="0" y="2051" width="2892" height="1036" frameX="-18" frameY="-12" frameWidth="2913" frameHeight="1048"/>
+	<SubTexture name="CrowdBop0005" x="2892" y="2051" width="2895" height="1045" frameX="-13" frameY="-3" frameWidth="2913" frameHeight="1048"/>
+	<SubTexture name="CrowdBop0006" x="0" y="3096" width="2899" height="1046" frameX="-8" frameY="-2" frameWidth="2913" frameHeight="1048"/>
+	<SubTexture name="CrowdBop0007" x="2899" y="3096" width="2901" height="1047" frameX="-5" frameY="-1" frameWidth="2913" frameHeight="1048"/>
+	<SubTexture name="CrowdBop0008" x="0" y="4143" width="2903" height="1048" frameX="-2" frameY="0" frameWidth="2913" frameHeight="1048"/>
+	<SubTexture name="CrowdBop0009" x="2903" y="4143" width="2903" height="1048" frameX="-1" frameY="0" frameWidth="2913" frameHeight="1048"/>
+	<SubTexture name="CrowdBop0010" x="0" y="5191" width="2904" height="1048" frameX="0" frameY="0" frameWidth="2913" frameHeight="1048"/>
+	<SubTexture name="CrowdBop0011" x="0" y="5191" width="2904" height="1048" frameX="0" frameY="0" frameWidth="2913" frameHeight="1048"/>
+	<SubTexture name="CrowdBop0012" x="0" y="5191" width="2904" height="1048" frameX="0" frameY="0" frameWidth="2913" frameHeight="1048"/>
+	<SubTexture name="CrowdBop0013" x="0" y="5191" width="2904" height="1048" frameX="0" frameY="0" frameWidth="2913" frameHeight="1048"/>
+	<SubTexture name="CrowdBop0014" x="0" y="5191" width="2904" height="1048" frameX="0" frameY="0" frameWidth="2913" frameHeight="1048"/>
+	<SubTexture name="CrowdBop0015" x="0" y="5191" width="2904" height="1048" frameX="0" frameY="0" frameWidth="2913" frameHeight="1048"/>
+</TextureAtlas>

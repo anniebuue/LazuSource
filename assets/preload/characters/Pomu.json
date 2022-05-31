@@ -1,0 +1,248 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-45,
+				78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "PomuIdle"
+		},
+		{
+			"offsets": [
+				-54,
+				182
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "PomuHey"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				73
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "FreekedLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				40
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "FreekedDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-97,
+				104
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "FreekedUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				83
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "FreekedRight",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-63,
+				21
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "FreekedLoop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				59
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "UnFreeked",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-64,
+				128
+			],
+			"anim": "firstDeath",
+			"fps": 23,
+			"name": "FreekedPomu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				77
+			],
+			"anim": "pain",
+			"fps": 24,
+			"name": "PomuPain",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-60,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "PomuDown"
+		},
+		{
+			"offsets": [
+				-79,
+				78
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "PomuScared"
+		},
+		{
+			"offsets": [
+				-15,
+				73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PomuLeft"
+		},
+		{
+			"offsets": [
+				-97,
+				105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "PomuUp"
+		},
+		{
+			"offsets": [
+				-14,
+				72
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				5,
+				6,
+				7
+			],
+			"name": "PomuLeft"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-104,
+				84
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "PomuRight",
+			"indices": [
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-97,
+				105
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "PomuUp",
+			"indices": [
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-60,
+				40
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "PomuDown",
+			"indices": [
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"offsets": [
+				-104,
+				84
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "PomuRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pomu",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pomu-remastered",
+	"flip_x": true,
+	"healthbar_colors": [
+		242,
+		175,
+		51
+	],
+	"camera_position": [
+		-10,
+		10
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1
+}

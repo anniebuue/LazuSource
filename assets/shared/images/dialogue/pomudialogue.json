@@ -1,0 +1,90 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-1020,
+		-1140
+	],
+	"no_antialiasing": false,
+	"scale": 0.299999999999999,
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "PomuExcited",
+			"idle_name": "PomuExcited"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PomuHuh",
+			"loop_name": "PomuHuh"
+		},
+		{
+			"loop_name": "PomuNeutral",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PomuNeutral",
+			"anim": "Neutral",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PomuWhew",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PomuWhew",
+			"anim": "Whew",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PomuMwuehehe",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PomuMwuehehe",
+			"anim": "Mwuehehe",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PomuWoag",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PomuWoag",
+			"anim": "woag",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "PomuDialogue"
+}

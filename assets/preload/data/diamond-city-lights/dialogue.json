@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "So.. are you guys ready?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "elira"
+		},
+		{
+			"expression": "Concerned",
+			"text": "Nooo~ What if I have to use the bathroom?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "finana"
+		},
+		{
+			"expression": "Netural",
+			"text": "You'’re gonna have to hold it in, we’re already onstage.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "elira"
+		},
+		{
+			"expression": "Relief",
+			"text": "Eeeeek, I'll try to...\\n",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "finana"
+		},
+		{
+			"expression": "Whew",
+			"text": "Ahhh, I'm getting nervous...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "PomuDialogue"
+		},
+		{
+			"expression": "Excited",
+			"text": "Same here, but let's give them our \\nbest performance!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "elira"
+		},
+		{
+			"expression": "talk",
+			"text": "You'’re right, let'’s just have fun and enjoy the moment.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "PomuDialogue"
+		}
+	]
+}

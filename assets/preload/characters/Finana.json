@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-85,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Finana IdleV2"
+		},
+		{
+			"offsets": [
+				-10,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Finana Left"
+		},
+		{
+			"offsets": [
+				-40,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Finana Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				67
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Finana Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-151,
+				-17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Finana Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Finana",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "finana",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		243,
+		219
+	],
+	"camera_position": [
+		-50,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

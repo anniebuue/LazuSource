@@ -1,0 +1,4 @@
+Funny camera movement
+
+value 1: type on to turn on B)
+value 2: type off to turn off B(

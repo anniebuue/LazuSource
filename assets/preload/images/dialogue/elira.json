@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-550,
+		-660
+	],
+	"scale": 0.549999999999999,
+	"animations": [
+		{
+			"loop_name": "EliraNetural",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "EliraNetural",
+			"anim": "Netural",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "EliraConcerned",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "EliraConcerned",
+			"anim": "Concerned",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "EliraExcited",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "EliraExcited",
+			"anim": "Excited",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "EliraRelief",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "EliraRelief",
+			"anim": "Relief",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "EliraShocked",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "EliraShocked",
+			"anim": "Shocked",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Elira"
+}

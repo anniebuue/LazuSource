@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "FINANA!",
+			"boxState": "pomubox",
+			"portrait": "pomudialogue",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "Concerned",
+			"text": "Wh-what’s up Pomu? Something wrong?",
+			"boxState": "pomubox",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "finana"
+		},
+		{
+			"expression": "Concerned",
+			"text": "(Did I forget something? WHAT’S THE DATE TODAY?!)",
+			"boxState": "pomubox",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "finana"
+		},
+		{
+			"expression": "Neutral",
+			"text": "Don't you remember? We need to rehearse for our Anniversary!",
+			"boxState": "pomubox",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pomudialogue"
+		},
+		{
+			"expression": "Shocked",
+			"text": "OH FEESH- IS THE ANNIVERSARY TODAY? ",
+			"boxState": "pomubox",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "finana"
+		},
+		{
+			"expression": "confused",
+			"text": "Nonono, but we really should rehearse. I don’t want us to be unprepared for the concert we’re doing for our Anniversary.",
+			"boxState": "pomubox",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pomudialogue"
+		},
+		{
+			"expression": "Relief",
+			"text": "Oh phew, you’'re right. How about we duet on my original?",
+			"boxState": "pomubox",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "finana"
+		},
+		{
+			"expression": "Relief",
+			"text": "(I thought she meant our anniversary.)",
+			"boxState": "pomubox",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "finana"
+		},
+		{
+			"expression": "excited",
+			"text": "That sounds good, let's do it!",
+			"boxState": "pomubox",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pomudialogue"
+		}
+	]
+}

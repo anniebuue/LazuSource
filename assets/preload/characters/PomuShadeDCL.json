@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-79,
+				78
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "PomuScared"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				78
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PomuIdle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-45,
+				40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PomuDown",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				7,
+				73
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PomuLeft",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-100,
+				105
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PomuUp",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-100,
+				90
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PomuRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				185
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "PomuHey",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-14,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "FreekedLeft"
+		},
+		{
+			"offsets": [
+				-63,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "FreekedDown"
+		},
+		{
+			"offsets": [
+				-104,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "FreekedUp"
+		},
+		{
+			"offsets": [
+				-105,
+				83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "FreekedRight"
+		},
+		{
+			"offsets": [
+				-63,
+				21
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "FreekedLoop"
+		},
+		{
+			"offsets": [
+				-63,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "UnFreeked"
+		},
+		{
+			"offsets": [
+				-64,
+				128
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "FreekedPomu"
+		},
+		{
+			"offsets": [
+				-36,
+				77
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "pain",
+			"loop": false,
+			"name": "PomuPain"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PomuShadeDCL",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pomu-remastered",
+	"flip_x": true,
+	"healthbar_colors": [
+		242,
+		175,
+		51
+	],
+	"camera_position": [
+		-10,
+		10
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1
+}

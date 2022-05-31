@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Elira.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EliraConcerned0000" x="0" y="0" width="1821" height="1821" pivotX="844" pivotY="1014"/>
+	<SubTexture name="EliraExcited0000" x="1821" y="0" width="1821" height="1821" pivotX="844" pivotY="1014"/>
+	<SubTexture name="EliraNetural0000" x="3642" y="0" width="1821" height="1821" pivotX="844" pivotY="1014"/>
+	<SubTexture name="EliraRelief0000" x="5463" y="0" width="1821" height="1821" pivotX="844" pivotY="1014"/>
+	<SubTexture name="EliraShocked0000" x="0" y="1821" width="1821" height="1821" pivotX="844" pivotY="1014"/>
+</TextureAtlas>

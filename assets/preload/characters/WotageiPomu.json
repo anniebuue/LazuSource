@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-72,
+				55
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "WotageiDown",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-23,
+				87
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "WotageiLeft",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-180,
+				100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "WotageiRight",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-166,
+				115
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "WotageiUp",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-45,
+				78
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "WotageiIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				389
+			],
+			"anim": "megahey",
+			"fps": 24,
+			"name": "holyshitwhatshappeningtopomu",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/WotageiPomu",
+	"position": [
+		-120,
+		350
+	],
+	"healthicon": "pomu-remastered",
+	"flip_x": true,
+	"healthbar_colors": [
+		242,
+		175,
+		51
+	],
+	"camera_position": [
+		-130,
+		70
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1
+}
