@@ -2,59 +2,59 @@
 	"dialogue": [
 		{
 			"expression": "excited",
-			"text": "Hah.. That was great, the Famlira\\nis gonna love it!",
+			"text": "Hah.. That was great, the Famlira\\nis gonna love your song!",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "PomuDialogue",
 			"speed": 0.05,
-			"portrait": "PomuDialogue"
+			"sound": ""
 		},
 		{
 			"expression": "talk",
 			"text": "Thanks, that duet we had was pretty sick too.",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "elira",
 			"speed": 0.05,
-			"portrait": "elira"
+			"sound": ""
 		},
 		{
-			"expression": "Neutral",
-			"text": "Hah.. That was great, the Famlira is gonna love it!",
+			"expression": "Whew",
+			"text": "I'm exhausted from all of this prepping, and I have a stream to do too-",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "PomuDialogue",
 			"speed": 0.05,
-			"portrait": "PomuDialogue"
+			"sound": ""
 		},
 		{
 			"expression": "woag",
 			"text": "OH SHOOT I HOPE I'M NOT LATE!",
 			"boxState": "angry",
-			"sound": "",
+			"portrait": "PomuDialogue",
 			"speed": 0.05,
-			"portrait": "PomuDialogue"
+			"sound": ""
 		},
 		{
 			"expression": "Mwuehehe",
 			"text": "I have to go Elira, thanks for rehearsing!",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "PomuDialogue",
 			"speed": 0.05,
-			"portrait": "PomuDialogue"
+			"sound": ""
 		},
 		{
 			"expression": "Excited",
 			"text": "BYE POMU! GOODLUCK!",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "elira",
 			"speed": 0.05,
-			"portrait": "elira"
+			"sound": ""
 		},
 		{
 			"expression": "Relief",
 			"text": "Pffft, this fairy is too much.",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "elira",
 			"speed": 0.05,
-			"portrait": "elira"
+			"sound": ""
 		}
 	]
 }

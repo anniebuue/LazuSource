@@ -4,49 +4,49 @@
 			"expression": "Excited",
 			"text": "SHEEEESH! Great job you guys, I couldn'’t resist listening in after hearing you guys pop off.",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "elira",
 			"speed": 0.05,
-			"portrait": "elira"
+			"sound": ""
 		},
 		{
 			"expression": "Relief",
 			"text": "Elira! I’'m... so out of breath… That was intense!",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "finana",
 			"speed": 0.05,
-			"portrait": "finana"
+			"sound": ""
 		},
 		{
 			"expression": "Whew",
 			"text": "Yeah, that made me sweat a bit, I hope we can do this again.",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "pomudialogue",
 			"speed": 0.05,
-			"portrait": "pomudialogue"
+			"sound": ""
 		},
 		{
 			"expression": "Netural",
-			"text": "(Thank god I know the context to this conversation...)",
+			"text": "(Thank god I know the context for this\\nconversation...)",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "elira",
 			"speed": 0.05,
-			"portrait": "elira"
+			"sound": ""
 		},
 		{
 			"expression": "talk",
 			"text": "We should! But don’'t forget about Elira, you guys should have some fun too. ",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "finana",
 			"speed": 0.05,
-			"portrait": "finana"
+			"sound": ""
 		},
 		{
 			"expression": "Neutral",
 			"text": "Thanks Finana, I'll see you later!",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "pomudialogue",
 			"speed": 0.05,
-			"portrait": "pomudialogue"
+			"sound": ""
 		}
 	]
 }
