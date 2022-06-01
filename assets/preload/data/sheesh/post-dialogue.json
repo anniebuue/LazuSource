@@ -1,60 +1,76 @@
 {
 	"dialogue": [
 		{
-			"expression": "excited",
-			"text": "Hah.. That was great, the Famlira\\nis gonna love your song!",
+			"expression": "confused",
+			"text": "Really Elira...? A deez nuts joke?",
 			"boxState": "normal",
-			"portrait": "PomuDialogue",
+			"sound": "",
 			"speed": 0.05,
-			"sound": ""
+			"portrait": "PomuDialogue"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Elira",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hehe sorry, I just had too."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "PomuDialogue",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Anyways, that was a good song! The Famlira\\nis gonna love this!"
 		},
 		{
 			"expression": "talk",
 			"text": "Thanks, that duet we had was pretty sick too.",
 			"boxState": "normal",
-			"portrait": "elira",
+			"sound": "",
 			"speed": 0.05,
-			"sound": ""
+			"portrait": "elira"
 		},
 		{
 			"expression": "Whew",
 			"text": "I'm exhausted from all of this prepping, and I have a stream to do too-",
 			"boxState": "normal",
-			"portrait": "PomuDialogue",
+			"sound": "",
 			"speed": 0.05,
-			"sound": ""
+			"portrait": "PomuDialogue"
 		},
 		{
 			"expression": "woag",
 			"text": "OH SHOOT I HOPE I'M NOT LATE!",
 			"boxState": "angry",
-			"portrait": "PomuDialogue",
+			"sound": "",
 			"speed": 0.05,
-			"sound": ""
+			"portrait": "PomuDialogue"
 		},
 		{
 			"expression": "Mwuehehe",
 			"text": "I have to go Elira, thanks for rehearsing!",
 			"boxState": "normal",
-			"portrait": "PomuDialogue",
+			"sound": "",
 			"speed": 0.05,
-			"sound": ""
+			"portrait": "PomuDialogue"
 		},
 		{
 			"expression": "Excited",
 			"text": "BYE POMU! GOODLUCK!",
 			"boxState": "normal",
-			"portrait": "elira",
+			"sound": "",
 			"speed": 0.05,
-			"sound": ""
+			"portrait": "elira"
 		},
 		{
 			"expression": "Relief",
 			"text": "Pffft, this fairy is too much.",
 			"boxState": "normal",
-			"portrait": "elira",
+			"sound": "",
 			"speed": 0.05,
-			"sound": ""
+			"portrait": "elira"
 		}
 	]
 }
