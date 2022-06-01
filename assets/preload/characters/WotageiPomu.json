@@ -1,51 +1,18 @@
 {
 	"animations": [
 		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
-				-72,
-				55
+				59,
+				379
 			],
-			"anim": "singDOWN",
+			"anim": "megahey",
 			"fps": 24,
-			"name": "WotageiDown",
+			"name": "holyshitwhatshappeningtopomu",
 			"indices": []
 		},
 		{
-			"loop": true,
-			"offsets": [
-				-23,
-				87
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "WotageiLeft",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-180,
-				100
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "WotageiRight",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-166,
-				115
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "WotageiUp",
-			"indices": []
-		},
-		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
 				-45,
 				78
@@ -56,14 +23,103 @@
 			"indices": []
 		},
 		{
+			"loop": true,
+			"offsets": [
+				-45,
+				78
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "WotageiIdle",
+			"indices": [
+				16,
+				17,
+				18
+			]
+		},
+		{
 			"loop": false,
 			"offsets": [
-				49,
-				389
+				-71,
+				42
 			],
-			"anim": "megahey",
+			"anim": "singDOWN",
 			"fps": 24,
-			"name": "holyshitwhatshappeningtopomu",
+			"name": "WotageiDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				77
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "WotageiLeft",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-45,
+				77
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "WotageiLeft",
+			"indices": [
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-157,
+				89
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "WotageiRight",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-157,
+				89
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "WotageiRight",
+			"indices": [
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-166,
+				115
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "WotageiUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-127,
+				100
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "megahey",
 			"indices": []
 		}
 	],

@@ -2,82 +2,80 @@
 <TextureAtlas imagePath="Elira.png">
 	<!-- Created with Adobe Animate version 22.0.4.185 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="EwiwaDown0000" x="1383" y="2199" width="344" height="720" frameX="0" frameY="-5" frameWidth="344" frameHeight="726"/>
-	<SubTexture name="EwiwaDown0001" x="1383" y="2199" width="344" height="720" frameX="0" frameY="-5" frameWidth="344" frameHeight="726"/>
-	<SubTexture name="EwiwaDown0002" x="1728" y="2186" width="338" height="725" frameX="-5" frameY="-1" frameWidth="344" frameHeight="726"/>
-	<SubTexture name="EwiwaDown0003" x="1728" y="2186" width="338" height="725" frameX="-5" frameY="-1" frameWidth="344" frameHeight="726"/>
-	<SubTexture name="EwiwaDown0004" x="1048" y="2945" width="326" height="726" frameX="-10" frameY="0" frameWidth="344" frameHeight="726"/>
-	<SubTexture name="EwiwaDown0005" x="1048" y="2945" width="326" height="726" frameX="-10" frameY="0" frameWidth="344" frameHeight="726"/>
-	<SubTexture name="EwiwaIdle0000" x="743" y="1" width="361" height="721" frameX="0" frameY="-20" frameWidth="361" frameHeight="742"/>
-	<SubTexture name="EwiwaIdle0001" x="743" y="1" width="361" height="721" frameX="0" frameY="-20" frameWidth="361" frameHeight="742"/>
-	<SubTexture name="EwiwaIdle0002" x="741" y="729" width="361" height="724" frameX="0" frameY="-18" frameWidth="361" frameHeight="742"/>
-	<SubTexture name="EwiwaIdle0003" x="741" y="729" width="361" height="724" frameX="0" frameY="-18" frameWidth="361" frameHeight="742"/>
-	<SubTexture name="EwiwaIdle0004" x="1" y="730" width="359" height="730" frameX="0" frameY="-12" frameWidth="361" frameHeight="742"/>
-	<SubTexture name="EwiwaIdle0005" x="1103" y="723" width="354" height="735" frameX="0" frameY="-7" frameWidth="361" frameHeight="742"/>
-	<SubTexture name="EwiwaIdle0006" x="1103" y="723" width="354" height="735" frameX="0" frameY="-7" frameWidth="361" frameHeight="742"/>
-	<SubTexture name="EwiwaIdle0007" x="1061" y="1459" width="348" height="739" frameX="-1" frameY="-3" frameWidth="361" frameHeight="742"/>
-	<SubTexture name="EwiwaIdle0008" x="711" y="1455" width="349" height="739" frameX="-1" frameY="-3" frameWidth="361" frameHeight="742"/>
-	<SubTexture name="EwiwaIdle0009" x="1" y="1461" width="349" height="741" frameX="-1" frameY="-1" frameWidth="361" frameHeight="742"/>
-	<SubTexture name="EwiwaIdle0010" x="361" y="1455" width="349" height="742" frameX="-1" frameY="0" frameWidth="361" frameHeight="742"/>
-	<SubTexture name="EwiwaIdle0011" x="361" y="1455" width="349" height="742" frameX="-1" frameY="0" frameWidth="361" frameHeight="742"/>
-	<SubTexture name="EwiwaIdle0012" x="361" y="1455" width="349" height="742" frameX="-1" frameY="0" frameWidth="361" frameHeight="742"/>
-	<SubTexture name="EwiwaIdle0013" x="361" y="1455" width="349" height="742" frameX="-1" frameY="0" frameWidth="361" frameHeight="742"/>
-	<SubTexture name="EwiwaIdle0014" x="361" y="1455" width="349" height="742" frameX="-1" frameY="0" frameWidth="361" frameHeight="742"/>
-	<SubTexture name="EwiwaIdle0015" x="361" y="1455" width="349" height="742" frameX="-1" frameY="0" frameWidth="361" frameHeight="742"/>
-	<SubTexture name="EwiwaLeft0000" x="1049" y="2199" width="333" height="745" frameX="0" frameY="-5" frameWidth="333" frameHeight="750"/>
-	<SubTexture name="EwiwaLeft0001" x="1049" y="2199" width="333" height="745" frameX="0" frameY="-5" frameWidth="333" frameHeight="750"/>
-	<SubTexture name="EwiwaLeft0002" x="2067" y="2895" width="325" height="750" frameX="-4" frameY="0" frameWidth="333" frameHeight="750"/>
-	<SubTexture name="EwiwaLeft0003" x="2067" y="2895" width="325" height="750" frameX="-4" frameY="0" frameWidth="333" frameHeight="750"/>
-	<SubTexture name="EwiwaLeft0004" x="1383" y="2920" width="320" height="741" frameX="-4" frameY="-9" frameWidth="333" frameHeight="750"/>
-	<SubTexture name="EwiwaLeft0005" x="1383" y="2920" width="320" height="741" frameX="-4" frameY="-9" frameWidth="333" frameHeight="750"/>
+	<SubTexture name="EwiwaDown0000" x="1060" y="1459" width="344" height="720" frameX="0" frameY="-5" frameWidth="344" frameHeight="726"/>
+	<SubTexture name="EwiwaDown0001" x="1060" y="1459" width="344" height="720" frameX="0" frameY="-5" frameWidth="344" frameHeight="726"/>
+	<SubTexture name="EwiwaDown0002" x="2139" y="1463" width="338" height="725" frameX="-5" frameY="-1" frameWidth="344" frameHeight="726"/>
+	<SubTexture name="EwiwaDown0003" x="2139" y="1463" width="338" height="725" frameX="-5" frameY="-1" frameWidth="344" frameHeight="726"/>
+	<SubTexture name="EwiwaDown0004" x="2804" y="1467" width="326" height="726" frameX="-10" frameY="0" frameWidth="344" frameHeight="726"/>
+	<SubTexture name="EwiwaDown0005" x="2804" y="1467" width="326" height="726" frameX="-10" frameY="0" frameWidth="344" frameHeight="726"/>
+	<SubTexture name="EwiwaIdle0000" x="1829" y="1" width="361" height="721" frameX="0" frameY="-20" frameWidth="361" frameHeight="742"/>
+	<SubTexture name="EwiwaIdle0001" x="1829" y="1" width="361" height="721" frameX="0" frameY="-20" frameWidth="361" frameHeight="742"/>
+	<SubTexture name="EwiwaIdle0002" x="1467" y="1" width="361" height="724" frameX="0" frameY="-18" frameWidth="361" frameHeight="742"/>
+	<SubTexture name="EwiwaIdle0003" x="1467" y="1" width="361" height="724" frameX="0" frameY="-18" frameWidth="361" frameHeight="742"/>
+	<SubTexture name="EwiwaIdle0004" x="1107" y="1" width="359" height="730" frameX="0" frameY="-12" frameWidth="361" frameHeight="742"/>
+	<SubTexture name="EwiwaIdle0005" x="2191" y="1" width="354" height="735" frameX="0" frameY="-7" frameWidth="361" frameHeight="742"/>
+	<SubTexture name="EwiwaIdle0006" x="2191" y="1" width="354" height="735" frameX="0" frameY="-7" frameWidth="361" frameHeight="742"/>
+	<SubTexture name="EwiwaIdle0007" x="3596" y="1" width="348" height="739" frameX="-1" frameY="-3" frameWidth="361" frameHeight="742"/>
+	<SubTexture name="EwiwaIdle0008" x="3246" y="1" width="349" height="739" frameX="-1" frameY="-3" frameWidth="361" frameHeight="742"/>
+	<SubTexture name="EwiwaIdle0009" x="2896" y="1" width="349" height="741" frameX="-1" frameY="-1" frameWidth="361" frameHeight="742"/>
+	<SubTexture name="EwiwaIdle0010" x="2546" y="1" width="349" height="742" frameX="-1" frameY="0" frameWidth="361" frameHeight="742"/>
+	<SubTexture name="EwiwaIdle0011" x="2546" y="1" width="349" height="742" frameX="-1" frameY="0" frameWidth="361" frameHeight="742"/>
+	<SubTexture name="EwiwaIdle0012" x="2546" y="1" width="349" height="742" frameX="-1" frameY="0" frameWidth="361" frameHeight="742"/>
+	<SubTexture name="EwiwaIdle0013" x="2546" y="1" width="349" height="742" frameX="-1" frameY="0" frameWidth="361" frameHeight="742"/>
+	<SubTexture name="EwiwaIdle0014" x="2546" y="1" width="349" height="742" frameX="-1" frameY="0" frameWidth="361" frameHeight="742"/>
+	<SubTexture name="EwiwaIdle0015" x="2546" y="1" width="349" height="742" frameX="-1" frameY="0" frameWidth="361" frameHeight="742"/>
+	<SubTexture name="EwiwaLeft0000" x="726" y="1456" width="333" height="745" frameX="0" frameY="-5" frameWidth="333" frameHeight="750"/>
+	<SubTexture name="EwiwaLeft0001" x="726" y="1456" width="333" height="745" frameX="0" frameY="-5" frameWidth="333" frameHeight="750"/>
+	<SubTexture name="EwiwaLeft0002" x="2478" y="1464" width="325" height="750" frameX="-4" frameY="0" frameWidth="333" frameHeight="750"/>
+	<SubTexture name="EwiwaLeft0003" x="2478" y="1464" width="325" height="750" frameX="-4" frameY="0" frameWidth="333" frameHeight="750"/>
+	<SubTexture name="EwiwaLeft0004" x="3595" y="1465" width="320" height="741" frameX="-4" frameY="-9" frameWidth="333" frameHeight="750"/>
+	<SubTexture name="EwiwaLeft0005" x="3595" y="1465" width="320" height="741" frameX="-4" frameY="-9" frameWidth="333" frameHeight="750"/>
 	<SubTexture name="EwiwaRight0000" x="1" y="1" width="375" height="728" frameX="0" frameY="0" frameWidth="376" frameHeight="728"/>
 	<SubTexture name="EwiwaRight0001" x="1" y="1" width="375" height="728" frameX="0" frameY="0" frameWidth="376" frameHeight="728"/>
 	<SubTexture name="EwiwaRight0002" x="377" y="1" width="365" height="727" frameX="-11" frameY="-1" frameWidth="376" frameHeight="728"/>
 	<SubTexture name="EwiwaRight0003" x="377" y="1" width="365" height="727" frameX="-11" frameY="-1" frameWidth="376" frameHeight="728"/>
-	<SubTexture name="EwiwaRight0004" x="377" y="729" width="363" height="725" frameX="-13" frameY="-3" frameWidth="376" frameHeight="728"/>
-	<SubTexture name="EwiwaRight0005" x="377" y="729" width="363" height="725" frameX="-13" frameY="-3" frameWidth="376" frameHeight="728"/>
-	<SubTexture name="EwiwaSheesh0000" x="1" y="2203" width="348" height="733"/>
-	<SubTexture name="EwiwaSheesh0001" x="1" y="2203" width="348" height="733"/>
-	<SubTexture name="EwiwaSheesh0002" x="700" y="2198" width="348" height="726" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0003" x="1410" y="1459" width="348" height="726" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0004" x="1807" y="727" width="348" height="724" frameX="0" frameY="-8" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0005" x="2108" y="1452" width="348" height="724" frameX="0" frameY="-8" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0006" x="1458" y="1" width="348" height="726" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0007" x="1458" y="1" width="348" height="726" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0008" x="1458" y="728" width="348" height="725" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0009" x="1458" y="728" width="348" height="725" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0010" x="1458" y="728" width="348" height="725" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0011" x="1458" y="728" width="348" height="725" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0012" x="1458" y="728" width="348" height="725" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0013" x="1458" y="728" width="348" height="725" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0014" x="1458" y="728" width="348" height="725" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0015" x="1458" y="728" width="348" height="725" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0016" x="1458" y="728" width="348" height="725" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0017" x="1458" y="728" width="348" height="725" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0018" x="1458" y="728" width="348" height="725" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0019" x="1458" y="728" width="348" height="725" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0020" x="1458" y="728" width="348" height="725" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0021" x="1458" y="728" width="348" height="725" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0022" x="1458" y="728" width="348" height="725" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0023" x="1759" y="1454" width="348" height="725" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0024" x="1759" y="1454" width="348" height="725" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0025" x="1807" y="1" width="348" height="725" frameX="0" frameY="-7" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0026" x="2156" y="1" width="348" height="723" frameX="0" frameY="-9" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0027" x="2156" y="725" width="348" height="723" frameX="0" frameY="-9" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0028" x="2108" y="2177" width="348" height="717" frameX="0" frameY="-15" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0029" x="699" y="2932" width="348" height="712" frameX="0" frameY="-20" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0030" x="699" y="2932" width="348" height="712" frameX="0" frameY="-20" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0031" x="699" y="2932" width="348" height="712" frameX="0" frameY="-20" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0032" x="699" y="2932" width="348" height="712" frameX="0" frameY="-20" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0033" x="699" y="2932" width="348" height="712" frameX="0" frameY="-20" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0034" x="699" y="2932" width="348" height="712" frameX="0" frameY="-20" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0035" x="699" y="2932" width="348" height="712" frameX="0" frameY="-20" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0036" x="699" y="2932" width="348" height="712" frameX="0" frameY="-20" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaSheesh0037" x="699" y="2932" width="348" height="712" frameX="0" frameY="-20" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaUp0000" x="351" y="2198" width="348" height="733"/>
-	<SubTexture name="EwiwaUp0001" x="351" y="2198" width="348" height="733"/>
-	<SubTexture name="EwiwaUp0002" x="1105" y="1" width="348" height="719" frameX="0" frameY="-14" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaUp0003" x="1105" y="1" width="348" height="719" frameX="0" frameY="-14" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaUp0004" x="350" y="2932" width="348" height="712" frameX="0" frameY="-20" frameWidth="348" frameHeight="733"/>
-	<SubTexture name="EwiwaUp0005" x="1" y="2937" width="348" height="712" frameX="0" frameY="-20" frameWidth="348" frameHeight="733"/>
+	<SubTexture name="EwiwaRight0004" x="743" y="1" width="363" height="725" frameX="-13" frameY="-3" frameWidth="376" frameHeight="728"/>
+	<SubTexture name="EwiwaRight0005" x="743" y="1" width="363" height="725" frameX="-13" frameY="-3" frameWidth="376" frameHeight="728"/>
+	<SubTexture name="EwiwaSheesh0000" x="1467" y="726" width="348" height="728" frameX="0" frameY="-1" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0001" x="1467" y="726" width="348" height="728" frameX="0" frameY="-1" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0002" x="1" y="730" width="348" height="726" frameX="0" frameY="-3" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0003" x="1092" y="732" width="348" height="726" frameX="0" frameY="-3" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0004" x="743" y="727" width="348" height="728" frameX="0" frameY="-1" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0005" x="743" y="727" width="348" height="728" frameX="0" frameY="-1" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0006" x="377" y="729" width="348" height="728" frameX="0" frameY="0" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0007" x="377" y="729" width="348" height="728" frameX="0" frameY="0" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0008" x="377" y="729" width="348" height="728" frameX="0" frameY="0" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0009" x="377" y="729" width="348" height="728" frameX="0" frameY="0" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0010" x="377" y="729" width="348" height="728" frameX="0" frameY="0" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0011" x="377" y="729" width="348" height="728" frameX="0" frameY="0" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0012" x="377" y="729" width="348" height="728" frameX="0" frameY="0" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0013" x="377" y="729" width="348" height="728" frameX="0" frameY="0" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0014" x="377" y="729" width="348" height="728" frameX="0" frameY="0" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0015" x="377" y="729" width="348" height="728" frameX="0" frameY="0" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0016" x="377" y="729" width="348" height="728" frameX="0" frameY="0" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0017" x="377" y="729" width="348" height="728" frameX="0" frameY="0" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0018" x="377" y="729" width="348" height="728" frameX="0" frameY="0" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0019" x="377" y="729" width="348" height="728" frameX="0" frameY="0" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0020" x="377" y="729" width="348" height="728" frameX="0" frameY="0" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0021" x="2178" y="737" width="348" height="725" frameX="0" frameY="-3" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0022" x="2178" y="737" width="348" height="725" frameX="0" frameY="-3" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0023" x="3246" y="741" width="348" height="725" frameX="0" frameY="-3" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0024" x="3595" y="741" width="348" height="723" frameX="0" frameY="-5" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0025" x="2896" y="743" width="348" height="723" frameX="0" frameY="-5" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0026" x="350" y="1458" width="348" height="712" frameX="0" frameY="-16" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0027" x="1441" y="1455" width="348" height="714" frameX="0" frameY="-14" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0028" x="1441" y="1455" width="348" height="714" frameX="0" frameY="-14" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0029" x="1441" y="1455" width="348" height="714" frameX="0" frameY="-14" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0030" x="1441" y="1455" width="348" height="714" frameX="0" frameY="-14" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0031" x="1441" y="1455" width="348" height="714" frameX="0" frameY="-14" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0032" x="1441" y="1455" width="348" height="714" frameX="0" frameY="-14" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0033" x="1441" y="1455" width="348" height="714" frameX="0" frameY="-14" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0034" x="1441" y="1455" width="348" height="714" frameX="0" frameY="-14" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaSheesh0035" x="1441" y="1455" width="348" height="714" frameX="0" frameY="-14" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="EwiwaUp0000" x="1829" y="723" width="348" height="733"/>
+	<SubTexture name="EwiwaUp0001" x="1829" y="723" width="348" height="733"/>
+	<SubTexture name="EwiwaUp0002" x="2527" y="744" width="348" height="719" frameX="0" frameY="-14" frameWidth="348" frameHeight="733"/>
+	<SubTexture name="EwiwaUp0003" x="2527" y="744" width="348" height="719" frameX="0" frameY="-14" frameWidth="348" frameHeight="733"/>
+	<SubTexture name="EwiwaUp0004" x="1" y="1457" width="348" height="712" frameX="0" frameY="-20" frameWidth="348" frameHeight="733"/>
+	<SubTexture name="EwiwaUp0005" x="1790" y="1457" width="348" height="712" frameX="0" frameY="-20" frameWidth="348" frameHeight="733"/>
 </TextureAtlas>

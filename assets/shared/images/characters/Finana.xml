@@ -2,76 +2,43 @@
 <TextureAtlas imagePath="Finana.png">
 	<!-- Created with Adobe Animate version 22.0.4.185 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Finana Down0000" x="1438" y="739" width="497" height="656" frameX="-17" frameY="-18" frameWidth="514" frameHeight="675"/>
-	<SubTexture name="Finana Down0001" x="6365" y="1343" width="497" height="656" frameX="-17" frameY="-18" frameWidth="514" frameHeight="675"/>
-	<SubTexture name="Finana Down0002" x="6863" y="1343" width="497" height="656" frameX="-17" frameY="-18" frameWidth="514" frameHeight="675"/>
-	<SubTexture name="Finana Down0003" x="2929" y="725" width="503" height="663" frameX="-4" frameY="-12" frameWidth="514" frameHeight="675"/>
-	<SubTexture name="Finana Down0004" x="3433" y="725" width="503" height="663" frameX="-4" frameY="-12" frameWidth="514" frameHeight="675"/>
-	<SubTexture name="Finana Down0005" x="4846" y="677" width="501" height="666" frameX="-4" frameY="-9" frameWidth="514" frameHeight="675"/>
-	<SubTexture name="Finana Down0006" x="5353" y="675" width="505" height="670" frameX="-2" frameY="-5" frameWidth="514" frameHeight="675"/>
-	<SubTexture name="Finana Down0007" x="6365" y="1" width="506" height="670" frameX="-1" frameY="-5" frameWidth="514" frameHeight="675"/>
-	<SubTexture name="Finana Down0008" x="6872" y="1" width="506" height="670" frameX="-1" frameY="-5" frameWidth="514" frameHeight="675"/>
-	<SubTexture name="Finana Down0009" x="7379" y="1" width="506" height="670" frameX="-1" frameY="-5" frameWidth="514" frameHeight="675"/>
-	<SubTexture name="Finana Down0010" x="6365" y="672" width="506" height="670" frameX="-1" frameY="-5" frameWidth="514" frameHeight="675"/>
-	<SubTexture name="Finana Down0011" x="6872" y="672" width="506" height="670" frameX="-1" frameY="-5" frameWidth="514" frameHeight="675"/>
-	<SubTexture name="Finana Down0012" x="7379" y="672" width="506" height="670" frameX="-1" frameY="-5" frameWidth="514" frameHeight="675"/>
-	<SubTexture name="Finana Down0013" x="5859" y="674" width="505" height="671" frameX="-1" frameY="-4" frameWidth="514" frameHeight="675"/>
-	<SubTexture name="Finana Down0014" x="5859" y="1" width="505" height="672" frameX="-1" frameY="-3" frameWidth="514" frameHeight="675"/>
-	<SubTexture name="Finana Down0015" x="5353" y="1" width="505" height="673" frameX="-1" frameY="-2" frameWidth="514" frameHeight="675"/>
-	<SubTexture name="Finana Down0016" x="4846" y="1" width="506" height="675" frameX="0" frameY="0" frameWidth="514" frameHeight="675"/>
-	<SubTexture name="Finana Down0017" x="4846" y="1" width="506" height="675" frameX="0" frameY="0" frameWidth="514" frameHeight="675"/>
-	<SubTexture name="Finana Down0018" x="4846" y="1" width="506" height="675" frameX="0" frameY="0" frameWidth="514" frameHeight="675"/>
-	<SubTexture name="Finana IdleV20000" x="3896" y="1" width="481" height="722" frameX="0" frameY="-14" frameWidth="488" frameHeight="737"/>
-	<SubTexture name="Finana IdleV20001" x="3413" y="1" width="482" height="723" frameX="-1" frameY="-14" frameWidth="488" frameHeight="737"/>
-	<SubTexture name="Finana IdleV20002" x="2929" y="1" width="483" height="723" frameX="-2" frameY="-14" frameWidth="488" frameHeight="737"/>
-	<SubTexture name="Finana IdleV20003" x="2443" y="1" width="485" height="729" frameX="-1" frameY="-8" frameWidth="488" frameHeight="737"/>
-	<SubTexture name="Finana IdleV20004" x="1954" y="1" width="488" height="735" frameX="0" frameY="-2" frameWidth="488" frameHeight="737"/>
-	<SubTexture name="Finana IdleV20005" x="1" y="1" width="488" height="736" frameX="0" frameY="-1" frameWidth="488" frameHeight="737"/>
-	<SubTexture name="Finana IdleV20006" x="490" y="1" width="487" height="737" frameX="0" frameY="0" frameWidth="488" frameHeight="737"/>
-	<SubTexture name="Finana IdleV20007" x="978" y="1" width="487" height="737" frameX="0" frameY="0" frameWidth="488" frameHeight="737"/>
-	<SubTexture name="Finana IdleV20008" x="1466" y="1" width="487" height="737" frameX="0" frameY="0" frameWidth="488" frameHeight="737"/>
-	<SubTexture name="Finana IdleV20009" x="1466" y="1" width="487" height="737" frameX="0" frameY="0" frameWidth="488" frameHeight="737"/>
-	<SubTexture name="Finana IdleV20010" x="1466" y="1" width="487" height="737" frameX="0" frameY="0" frameWidth="488" frameHeight="737"/>
-	<SubTexture name="Finana IdleV20011" x="1466" y="1" width="487" height="737" frameX="0" frameY="0" frameWidth="488" frameHeight="737"/>
-	<SubTexture name="Finana IdleV20012" x="1466" y="1" width="487" height="737" frameX="0" frameY="0" frameWidth="488" frameHeight="737"/>
-	<SubTexture name="Finana IdleV20013" x="1466" y="1" width="487" height="737" frameX="0" frameY="0" frameWidth="488" frameHeight="737"/>
-	<SubTexture name="Finana IdleV20014" x="1466" y="1" width="487" height="737" frameX="0" frameY="0" frameWidth="488" frameHeight="737"/>
-	<SubTexture name="Finana Left0000" x="4378" y="1" width="467" height="739" frameX="0" frameY="-5" frameWidth="467" frameHeight="744"/>
-	<SubTexture name="Finana Left0001" x="4378" y="1" width="467" height="739" frameX="0" frameY="-5" frameWidth="467" frameHeight="744"/>
-	<SubTexture name="Finana Left0002" x="5717" y="2090" width="413" height="742" frameX="-22" frameY="-2" frameWidth="467" frameHeight="744"/>
-	<SubTexture name="Finana Left0003" x="5717" y="2090" width="413" height="742" frameX="-22" frameY="-2" frameWidth="467" frameHeight="744"/>
-	<SubTexture name="Finana Left0004" x="2888" y="1389" width="432" height="744" frameX="-19" frameY="0" frameWidth="467" frameHeight="744"/>
-	<SubTexture name="Finana Left0005" x="2888" y="1389" width="432" height="744" frameX="-19" frameY="0" frameWidth="467" frameHeight="744"/>
-	<SubTexture name="Finana Right0000" x="1" y="2141" width="465" height="658" frameX="-18" frameY="-19" frameWidth="502" frameHeight="680"/>
-	<SubTexture name="Finana Right0001" x="1299" y="2135" width="469" height="658" frameX="-18" frameY="-19" frameWidth="502" frameHeight="680"/>
-	<SubTexture name="Finana Right0002" x="1" y="739" width="498" height="659" frameX="0" frameY="-19" frameWidth="502" frameHeight="680"/>
-	<SubTexture name="Finana Right0003" x="500" y="739" width="498" height="659" frameX="0" frameY="-19" frameWidth="502" frameHeight="680"/>
-	<SubTexture name="Finana Right0004" x="7361" y="1343" width="492" height="661" frameX="-9" frameY="-18" frameWidth="502" frameHeight="680"/>
-	<SubTexture name="Finana Right0005" x="5252" y="1346" width="486" height="666" frameX="-16" frameY="-13" frameWidth="502" frameHeight="680"/>
-	<SubTexture name="Finana Right0006" x="1872" y="1486" width="477" height="666" frameX="-25" frameY="-13" frameWidth="502" frameHeight="680"/>
-	<SubTexture name="Finana Right0007" x="6174" y="2000" width="468" height="667" frameX="-32" frameY="-12" frameWidth="502" frameHeight="680"/>
-	<SubTexture name="Finana Right0008" x="3291" y="2134" width="461" height="667" frameX="-34" frameY="-12" frameWidth="502" frameHeight="680"/>
-	<SubTexture name="Finana Right0009" x="7569" y="2005" width="464" height="668" frameX="-31" frameY="-11" frameWidth="502" frameHeight="680"/>
-	<SubTexture name="Finana Right0010" x="5252" y="2013" width="464" height="668" frameX="-31" frameY="-11" frameWidth="502" frameHeight="680"/>
-	<SubTexture name="Finana Right0011" x="4653" y="2090" width="463" height="669" frameX="-31" frameY="-10" frameWidth="502" frameHeight="680"/>
-	<SubTexture name="Finana Right0012" x="2828" y="2134" width="462" height="669" frameX="-31" frameY="-10" frameWidth="502" frameHeight="680"/>
-	<SubTexture name="Finana Right0013" x="7105" y="2005" width="463" height="672" frameX="-30" frameY="-8" frameWidth="502" frameHeight="680"/>
-	<SubTexture name="Finana Right0014" x="6643" y="2000" width="461" height="675" frameX="-28" frameY="-5" frameWidth="502" frameHeight="680"/>
-	<SubTexture name="Finana Right0015" x="4189" y="1488" width="463" height="680" frameX="-23" frameY="0" frameWidth="502" frameHeight="680"/>
-	<SubTexture name="Finana Up0000" x="3321" y="1389" width="435" height="738" frameX="0" frameY="-12" frameWidth="448" frameHeight="751"/>
-	<SubTexture name="Finana Up0001" x="3321" y="1389" width="435" height="738" frameX="0" frameY="-12" frameWidth="448" frameHeight="751"/>
-	<SubTexture name="Finana Up0002" x="867" y="1487" width="431" height="736" frameX="-3" frameY="-15" frameWidth="448" frameHeight="751"/>
-	<SubTexture name="Finana Up0003" x="867" y="1487" width="431" height="736" frameX="-3" frameY="-15" frameWidth="448" frameHeight="751"/>
-	<SubTexture name="Finana Up0004" x="1438" y="1396" width="433" height="738" frameX="-6" frameY="-12" frameWidth="448" frameHeight="751"/>
-	<SubTexture name="Finana Up0005" x="433" y="1399" width="433" height="737" frameX="-6" frameY="-12" frameWidth="448" frameHeight="751"/>
-	<SubTexture name="Finana Up0006" x="3757" y="1473" width="431" height="739" frameX="-10" frameY="-10" frameWidth="448" frameHeight="751"/>
-	<SubTexture name="Finana Up0007" x="2396" y="1481" width="431" height="739" frameX="-10" frameY="-10" frameWidth="448" frameHeight="751"/>
-	<SubTexture name="Finana Up0008" x="1" y="1399" width="431" height="741" frameX="-10" frameY="-8" frameWidth="448" frameHeight="751"/>
-	<SubTexture name="Finana Up0009" x="5739" y="1346" width="434" height="743" frameX="-9" frameY="-6" frameWidth="448" frameHeight="751"/>
-	<SubTexture name="Finana Up0010" x="4815" y="1344" width="436" height="745" frameX="-9" frameY="-4" frameWidth="448" frameHeight="751"/>
-	<SubTexture name="Finana Up0011" x="4377" y="741" width="437" height="746" frameX="-9" frameY="-3" frameWidth="448" frameHeight="751"/>
-	<SubTexture name="Finana Up0012" x="999" y="739" width="438" height="747" frameX="-9" frameY="-2" frameWidth="448" frameHeight="751"/>
-	<SubTexture name="Finana Up0013" x="3937" y="724" width="439" height="748" frameX="-8" frameY="-1" frameWidth="448" frameHeight="751"/>
-	<SubTexture name="Finana Up0014" x="1954" y="737" width="441" height="748" frameX="-7" frameY="-1" frameWidth="448" frameHeight="751"/>
-	<SubTexture name="Finana Up0015" x="2443" y="731" width="444" height="749" frameX="-4" frameY="0" frameWidth="448" frameHeight="751"/>
+	<SubTexture name="FinanaDown0000" x="979" y="724" width="497" height="656" frameX="-10" frameY="-18" frameWidth="507" frameHeight="675"/>
+	<SubTexture name="FinanaDown0001" x="979" y="724" width="497" height="656" frameX="-10" frameY="-18" frameWidth="507" frameHeight="675"/>
+	<SubTexture name="FinanaDown0002" x="1" y="2213" width="500" height="663" frameX="0" frameY="-12" frameWidth="507" frameHeight="675"/>
+	<SubTexture name="FinanaDown0003" x="480" y="1417" width="500" height="663" frameX="0" frameY="-12" frameWidth="507" frameHeight="675"/>
+	<SubTexture name="FinanaDown0004" x="479" y="741" width="499" height="675" frameX="0" frameY="0" frameWidth="507" frameHeight="675"/>
+	<SubTexture name="FinanaDown0005" x="479" y="741" width="499" height="675" frameX="0" frameY="0" frameWidth="507" frameHeight="675"/>
+	<SubTexture name="FinanaIdle0000" x="1411" y="1" width="449" height="722" frameX="-16" frameY="-14" frameWidth="480" frameHeight="737"/>
+	<SubTexture name="FinanaIdle0001" x="1411" y="1" width="449" height="722" frameX="-16" frameY="-14" frameWidth="480" frameHeight="737"/>
+	<SubTexture name="FinanaIdle0002" x="947" y="1" width="463" height="722" frameX="-10" frameY="-14" frameWidth="480" frameHeight="737"/>
+	<SubTexture name="FinanaIdle0003" x="947" y="1" width="463" height="722" frameX="-10" frameY="-14" frameWidth="480" frameHeight="737"/>
+	<SubTexture name="FinanaIdle0004" x="1" y="1477" width="478" height="735" frameX="-2" frameY="-2" frameWidth="480" frameHeight="737"/>
+	<SubTexture name="FinanaIdle0005" x="1" y="1477" width="478" height="735" frameX="-2" frameY="-2" frameWidth="480" frameHeight="737"/>
+	<SubTexture name="FinanaIdle0006" x="1" y="1" width="477" height="737" frameX="0" frameY="0" frameWidth="480" frameHeight="737"/>
+	<SubTexture name="FinanaIdle0007" x="1" y="1" width="477" height="737" frameX="0" frameY="0" frameWidth="480" frameHeight="737"/>
+	<SubTexture name="FinanaIdle0008" x="1" y="739" width="477" height="737" frameX="0" frameY="0" frameWidth="480" frameHeight="737"/>
+	<SubTexture name="FinanaIdle0009" x="1" y="739" width="477" height="737" frameX="0" frameY="0" frameWidth="480" frameHeight="737"/>
+	<SubTexture name="FinanaIdle0010" x="1" y="739" width="477" height="737" frameX="0" frameY="0" frameWidth="480" frameHeight="737"/>
+	<SubTexture name="FinanaIdle0011" x="1" y="739" width="477" height="737" frameX="0" frameY="0" frameWidth="480" frameHeight="737"/>
+	<SubTexture name="FinanaIdle0012" x="1" y="739" width="477" height="737" frameX="0" frameY="0" frameWidth="480" frameHeight="737"/>
+	<SubTexture name="FinanaIdle0013" x="1" y="739" width="477" height="737" frameX="0" frameY="0" frameWidth="480" frameHeight="737"/>
+	<SubTexture name="FinanaIdle0014" x="1" y="739" width="477" height="737" frameX="0" frameY="0" frameWidth="480" frameHeight="737"/>
+	<SubTexture name="FinanaLeft0000" x="479" y="1" width="467" height="739" frameX="0" frameY="-5" frameWidth="467" frameHeight="744"/>
+	<SubTexture name="FinanaLeft0001" x="479" y="1" width="467" height="739" frameX="0" frameY="-5" frameWidth="467" frameHeight="744"/>
+	<SubTexture name="FinanaLeft0002" x="1850" y="1383" width="413" height="742" frameX="-22" frameY="-2" frameWidth="467" frameHeight="744"/>
+	<SubTexture name="FinanaLeft0003" x="1850" y="1383" width="413" height="742" frameX="-22" frameY="-2" frameWidth="467" frameHeight="744"/>
+	<SubTexture name="FinanaLeft0004" x="502" y="2081" width="432" height="744" frameX="-19" frameY="0" frameWidth="467" frameHeight="744"/>
+	<SubTexture name="FinanaLeft0005" x="502" y="2081" width="432" height="744" frameX="-19" frameY="0" frameWidth="467" frameHeight="744"/>
+	<SubTexture name="FinanaRight0000" x="1861" y="1" width="465" height="658" frameX="-9" frameY="-11" frameWidth="492" frameHeight="669"/>
+	<SubTexture name="FinanaRight0001" x="1801" y="724" width="469" height="658" frameX="-9" frameY="-11" frameWidth="492" frameHeight="669"/>
+	<SubTexture name="FinanaRight0002" x="1" y="2877" width="492" height="657" frameX="0" frameY="-10" frameWidth="492" frameHeight="669"/>
+	<SubTexture name="FinanaRight0003" x="494" y="2877" width="492" height="657" frameX="0" frameY="-10" frameWidth="492" frameHeight="669"/>
+	<SubTexture name="FinanaRight0004" x="1419" y="2858" width="462" height="668" frameX="-22" frameY="0" frameWidth="492" frameHeight="669"/>
+	<SubTexture name="FinanaRight0005" x="1419" y="2858" width="462" height="668" frameX="-22" frameY="0" frameWidth="492" frameHeight="669"/>
+	<SubTexture name="FinanaUp0000" x="935" y="2081" width="433" height="737" frameX="0" frameY="-2" frameWidth="439" frameHeight="739"/>
+	<SubTexture name="FinanaUp0001" x="935" y="2081" width="433" height="737" frameX="0" frameY="-2" frameWidth="439" frameHeight="739"/>
+	<SubTexture name="FinanaUp0002" x="987" y="2819" width="431" height="737" frameX="-6" frameY="-2" frameWidth="439" frameHeight="739"/>
+	<SubTexture name="FinanaUp0003" x="1369" y="1381" width="431" height="737" frameX="-6" frameY="-2" frameWidth="439" frameHeight="739"/>
+	<SubTexture name="FinanaUp0004" x="1419" y="2119" width="430" height="738" frameX="-9" frameY="0" frameWidth="439" frameHeight="739"/>
+	<SubTexture name="FinanaUp0005" x="1419" y="2119" width="430" height="738" frameX="-9" frameY="0" frameWidth="439" frameHeight="739"/>
 </TextureAtlas>

@@ -204,7 +204,7 @@ class DialogueBoxPsych extends FlxSpriteGroup
 
 		var boxType:String = 'speech_bubble';
 		
-		switch (PlayState.SONG.song.toLowerCase())
+		switch (PlayState.SONG.song.toLowerCase().replace(' ', '-'))
 		{
 			case 'tsunami':
 				boxType = 'speech_tsunami';

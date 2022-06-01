@@ -10,6 +10,8 @@ import flixel.util.FlxTimer;
 import flixel.tweens.FlxEase;
 import flixel.tweens.FlxTween;
 
+using StringTools;
+
 class GameOverSubstate extends MusicBeatSubstate
 {
 	public var boyfriend:Boyfriend;
@@ -56,7 +58,15 @@ class GameOverSubstate extends MusicBeatSubstate
 
 		camFollow = new FlxPoint(boyfriend.getGraphicMidpoint().x, boyfriend.getGraphicMidpoint().y);
 
-		FlxG.sound.play(Paths.sound('LucaPranks/lucaprank-' + FlxG.random.int(1,2)));
+		switch (PlayState.SONG.song.toLowerCase().replace(' ', '-'))
+		{
+			case 'diamond-city-lights':
+				trace('luca mald shit');
+				FlxG.sound.play(Paths.sound('LucaPranks/lucaprank-' + FlxG.random.int(1,2)));
+		}
+
+		FlxG.sound.play(Paths.sound(deathSoundName));
+
 		Conductor.changeBPM(100);
 		// FlxG.camera.followLerp = 1;
 		// FlxG.camera.focusOn(FlxPoint.get(FlxG.width / 2, FlxG.height / 2));

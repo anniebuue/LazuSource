@@ -85,7 +85,7 @@ class CreditsState extends MusicBeatState
 			['CoZm0',	'Cozmo',	"Director of LazuNight Funkin'",	'https://www.youtube.com/c/CoZm0Plays',	'601d90'],
 			['Binpuki',	'Binpuki',	"Main Programmer for LazuNight Funkin'",	'https://twitter.com/binpuki_',	'a983fb'],
 			['KVN',	'KVN', "Main Animator & Modder for LazuNight Funkin'",	'https://www.youtube.com/c/KVNK3VIN',	'426d4d'],
-			['Plant Guy', 'thatguyfrommario',	'Character Sprite Artist, Main Menu Asset Artist, Animator Supervisor',	'https://twitter.com/That1PlantGuy',	'c0222f'],
+			['Plant Guy', 'thatguyfrommario',	'Character Sprite Artist, Menu Asset Artist, Animator Supervisor',	'https://twitter.com/That1PlantGuy',	'c0222f'],
 			['TIP', 'jeezus',	'Main Menu BG Artist',	'',	'2266c0'],
 			['cooper',	'cooper', 'Character Portrait Artist', '',	'ffc100'],
 			['Agora', 'agora',	'Character Portrait Designer',	'',	'eb6116'],
