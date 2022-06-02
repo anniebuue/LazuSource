@@ -1,70 +1,70 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				-130,
-				39
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-131,
+				44
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "EwiwaUp"
+			"fps": 24,
+			"name": "EwiwaUp",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-145,
 				53
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "EwiwaIdle"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-152,
-				34
-			],
-			"anim": "singDOWN",
 			"fps": 24,
-			"name": "EwiwaDown",
+			"name": "EwiwaIdle",
 			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-96,
+				-152,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EwiwaDown"
+		},
+		{
+			"offsets": [
+				-106,
 				38
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "EwiwaRight",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EwiwaRight"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-152,
-				62
+				-153,
+				61
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "EwiwaLeft",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "EwiwaLeft"
 		},
 		{
 			"offsets": [
 				-130,
-				38
+				43
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "Sheesh",
 			"loop": false,
-			"name": "EwiwaSHEESH"
+			"name": "EwiwaSheesh"
 		}
 	],
 	"no_antialiasing": false,
