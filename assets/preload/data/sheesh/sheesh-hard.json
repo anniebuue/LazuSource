@@ -39,6 +39,16 @@
 				]
 			],
 			[
+				177127.659574468,
+				[
+					[
+						"no more hud moment",
+						"on",
+						""
+					]
+				]
+			],
+			[
 				177659.574468085,
 				[
 					[
@@ -79,7 +89,7 @@
 					[
 						"CameraZoom",
 						"1.3",
-						"2"
+						"6"
 					],
 					[
 						"Play Animation",
@@ -4263,6 +4273,46 @@
 				"mustHitSection": true,
 				"changeBPM": false,
 				"bpm": 141
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 141,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 141,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 141,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 141,
+				"changeBPM": false,
+				"mustHitSection": true
 			},
 			{
 				"gfSection": false,
