@@ -3844,6 +3844,12 @@ class PlayState extends MusicBeatState
 				char = gf;
 			}
 
+			if (note.noteType == 'GF + Dad Note')
+			{
+				gf.playAnim(animToPlay, true);
+				gf.holdTimer = 0;
+			}
+
 			if(char != null)
 			{
 				char.playAnim(animToPlay, true);
