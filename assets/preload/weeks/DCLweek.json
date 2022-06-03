@@ -3,18 +3,14 @@
 	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "dcl",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"tsunami",
@@ -29,22 +25,26 @@
 			"sheesh",
 			"Elira",
 			[
-				146,
-				113,
-				253
+				141,
+				215,
+				255
 			]
 		],
 		[
 			"diamond city lights",
 			"pomu-remastered",
 			[
-				146,
-				113,
-				253
+				242,
+				175,
+				51
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "dclweek",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "dclweek"
 }
