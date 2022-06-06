@@ -3148,6 +3148,8 @@ class PlayState extends MusicBeatState
 	public var transitioning = false;
 	public function endSong():Void
 	{
+		camHUD.alpha = 1;	camHUD.visible = true;
+
 		//Should kill you if you tried to cheat
 		if(!startingSong) {
 			notes.forEach(function(daNote:Note) {
@@ -3198,6 +3200,14 @@ class PlayState extends MusicBeatState
 		#else
 		var ret:Dynamic = FunkinLua.Function_Continue;
 		#end
+
+		// Give you access to secret button if you beat it legit
+		var usedPractice:Bool = (ClientPrefs.getGameplaySetting('practice', false) || ClientPrefs.getGameplaySetting('botplay', false));
+		if (isStoryMode && storyPlaylist.length <= 1 && !usedPractice)
+		{
+			ClientPrefs.lazuBeat = true;
+			ClientPrefs.saveSettings();
+		}
 
 		if(ret != FunkinLua.Function_Stop && !transitioning) {
 			if (SONG.validScore)

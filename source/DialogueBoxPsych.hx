@@ -224,10 +224,10 @@ class DialogueBoxPsych extends FlxSpriteGroup
 		box.animation.addByPrefix('elira', 'dialogue_elira', 24);
 		box.animation.play('idle', true);
 		box.visible = false;
-		box.setGraphicSize(Std.int(1280 * 1.1), Std.int(720 * 1.1));
+		box.setGraphicSize(Std.int(1280 * 1.2), Std.int(720 * 1.2));
 		box.updateHitbox();
 		box.screenCenter();
-		box.y -= 20;
+		box.y -= 50;
 		add(box);
 
 		startNextDialog();

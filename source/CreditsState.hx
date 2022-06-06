@@ -1,5 +1,6 @@
 package;
 
+import flixel.ui.FlxButton;
 #if desktop
 import Discord.DiscordClient;
 #end
@@ -36,6 +37,8 @@ class CreditsState extends MusicBeatState
 	var descBox:AttachedSprite;
 
 	var offsetThing:Float = -75;
+
+	var secretButton:FlxButton; // its very secret
 
 	override function create()
 	{
@@ -186,6 +189,16 @@ class CreditsState extends MusicBeatState
 		bg.color = getCurrentBGColor();
 		intendedColor = bg.color;
 		changeSelection();
+
+		// secretest button
+		secretButton = new FlxButton(12, 12, "secret button", function(){
+			FlxG.switchState(new ThankYouState());
+		});
+
+		secretButton.scrollFactor.set();
+
+		if (ClientPrefs.lazuBeat)	add(secretButton);
+
 		super.create();
 	}
 
