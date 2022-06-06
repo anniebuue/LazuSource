@@ -5,13 +5,13 @@
 	<SubTexture name="options basic0000" x="0" y="0" width="637" height="166"/>
 	<SubTexture name="options basic0001" x="0" y="0" width="637" height="166"/>
 	<SubTexture name="options basic0002" x="0" y="0" width="637" height="166"/>
-	<SubTexture name="options basic0003" x="637" y="0" width="637" height="166"/>
-	<SubTexture name="options basic0004" x="637" y="0" width="637" height="166"/>
-	<SubTexture name="options basic0005" x="637" y="0" width="637" height="166"/>
-	<SubTexture name="options basic0006" x="1274" y="0" width="637" height="166"/>
-	<SubTexture name="options basic0007" x="1274" y="0" width="637" height="166"/>
-	<SubTexture name="options basic0008" x="1274" y="0" width="637" height="166"/>
-	<SubTexture name="options white0000" x="0" y="166" width="877" height="244" frameX="-1" frameY="0" frameWidth="878" frameHeight="244"/>
-	<SubTexture name="options white0001" x="877" y="166" width="878" height="244"/>
-	<SubTexture name="options white0002" x="0" y="410" width="878" height="244"/>
+	<SubTexture name="options basic0003" x="712" y="0" width="637" height="166"/>
+	<SubTexture name="options basic0004" x="712" y="0" width="637" height="166"/>
+	<SubTexture name="options basic0005" x="712" y="0" width="637" height="166"/>
+	<SubTexture name="options basic0006" x="0" y="241" width="637" height="166"/>
+	<SubTexture name="options basic0007" x="0" y="241" width="637" height="166"/>
+	<SubTexture name="options basic0008" x="0" y="241" width="637" height="166"/>
+	<SubTexture name="options white0000" x="712" y="241" width="877" height="244" frameX="-1" frameY="0" frameWidth="878" frameHeight="244"/>
+	<SubTexture name="options white0001" x="0" y="560" width="878" height="244"/>
+	<SubTexture name="options white0002" x="953" y="560" width="878" height="244"/>
 </TextureAtlas>
