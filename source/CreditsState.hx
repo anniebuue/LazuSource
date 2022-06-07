@@ -42,6 +42,8 @@ class CreditsState extends MusicBeatState
 
 	override function create()
 	{
+		FlxG.mouse.visible = true;
+
 		#if desktop
 		// Updating Discord Rich Presence
 		DiscordClient.changePresence("In the Menus", null);

@@ -62,9 +62,9 @@ class GameOverSubstate extends MusicBeatSubstate
 		{
 			case 'diamond-city-lights':
 				trace('luca mald shit');
-				deathSoundName = 'gameOverButItsPomuMaldingAtLucaOrSomethingIdkImJustTheCoderHereAlsoWatchSelenTatsukiNijisanjiENObsydia';
+				loopSoundName = 'gameOverButItsPomuMaldingAtLucaOrSomethingIdkImJustTheCoderHereAlsoWatchSelenTatsukiNijisanjiENObsydia';
 			default:
-				deathSoundName = 'gameOver';
+				loopSoundName = 'gameOver';
 		}
 
 		FlxG.sound.play(Paths.sound(deathSoundName));

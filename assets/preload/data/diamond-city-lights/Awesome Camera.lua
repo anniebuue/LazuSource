@@ -133,10 +133,3 @@ end
 function onSkipDialogue(count)
 	-- triggered when you press Enter and skip a dialogue line that was still being typed, dialogue line starts with 1
 end
-
-function opponentNoteHit() -- Code for the opponent to drain your health when he sings
-    health = getProperty('health')
-    if getProperty('health') > 0.4 then -- This is the maximum that the enemy will drain your health, then do nothing.
-        setProperty('health', health- 0.017); -- How much health does the enemy drain from you, the more, the more health and the less, the less health
-    end
-end
