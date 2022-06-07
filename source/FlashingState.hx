@@ -24,11 +24,11 @@ class FlashingState extends MusicBeatState
 		add(bg);
 
 		warnText = new FlxText(0, 0, FlxG.width,
-			"Hey, watch out!\n
-			This Mod contains some flashing lights!\n
-			Press ENTER to disable them now or go to Options Menu.\n
-			Press ESCAPE to ignore this message.\n
-			You've been warned!",
+			"This mod is a work of fiction and is not officially affiliated with ANYCOLOR Inc., Nijisanji, or its Talents.\n
+			The characters in this narrative do not represent the thoughts and opinions of the actual Nijisanji Talents.\n
+			This mod is a passion-driven project created for Lazulight’s first year anniversary, solely for the enjoyment of fans and the Talents themselves.\n
+			As a result, events in this mod may differ from real-life occurrences and what is deemed canon.\n
+			The team behind this project is neither related or officially affiliated with ANYCOLOR Inc., Nijisanji, or its Talents.",
 			32);
 		warnText.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, CENTER);
 		warnText.screenCenter(Y);
