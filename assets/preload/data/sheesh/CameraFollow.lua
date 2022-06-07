@@ -157,9 +157,3 @@ if not allowEnd and isStoryMode then
     end
     return Function_Continue;
 end
-
-function onStepHit()
-	if (curStep == 184) then
-		playSound("vineboom"); -- haha funny!
-	end
-end
